@@ -47,19 +47,24 @@ https://www.dw.com/en/has-googles-data-collection-gone-too-far/a-49531478
 
 - Briefly describe the article's premise.
  - Your answer here
+The article talks about how we need to be discussing whether if it's moral nor ethical
 
 - What is the ethical concern, in your opinion?
  - Your answer here
+We never know what is our information used for
 
 - What data is being manipulated in the article?
  - Your answer here
+our personal data that we dont even notice
 
 - Briefly describe the analysis, as you understand it.
  - Your answer here
+It analyze how transparent Google is connected with other companies, services
 
 - Who stands to lose or to gain something from this form of analysis?
  - Your answer here
-
+ Comopanies gaim more information from this form of connectivity through Google
 
 
 #### Did you remember to add your name to this document?
+Yes
